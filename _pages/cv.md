@@ -20,7 +20,7 @@ Work experience
 ======
 * Aug 2018--present: Research Assistant
   * University of Houston
-  * Working on multiple projects such as Machine Learning, Blockchains, Computer Security, Energy System Efficiency in \textit{Resilient Networked Systems Laboratory}. My responsibilities include mentoring students and publishing academic papers.
+  * Working on multiple projects such as Machine Learning, Blockchains, Computer Security, Energy System Efficiency in _Resilient Networked Systems Laboratory_. My responsibilities include mentoring students and publishing academic papers.
   * Supervisor: Professor [Aron Laszka](https://aronlaszka.com)
 
 * Sep 2017--Jul 2018: Full Stack Software Engineer
