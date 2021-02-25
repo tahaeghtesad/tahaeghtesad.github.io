@@ -1,9 +1,9 @@
 ---
 title: "14th ACM International Conference on Distributed and Event-Based Systems (DEBS 2020)"
 collection: publications
-permalink: /publication/06/13/2020 Mechanisms for Outsourcing Computation via a Decentralized market-https://taahaaa.ir/files/eisele2020mechanisms.pdf
+permalink: /publication/2020-06-16 Mechanisms for Outsourcing Computation via a Decentralized market-https://taahaaa.ir/files/eisele2020mechanisms.pdf
 excerpt: 'Scott Eisele, Taha Eghtesad, Nicholas Troutman, Aron Laszka, and Abhishek Dubey. 2020. Mechanisms for outsourcing computation via a decentralized market. In Proceedings of the 14th ACM International Conference on Distributed and Event-based Systems (DEBS &apos;20). Association for Computing Machinery, New York, NY, USA, 61–72. DOI:https://doi.org/10.1145/3401025.3401737'
-date: 06/13/2020 Mechanisms for Outsourcing Computation via a Decentralized market
+date: 2020-06-16 Mechanisms for Outsourcing Computation via a Decentralized market
 venue: 'As the number of personal computing and IoT devices grows rapidly, so does the amount of computational power that is available at the edge. Many of these devices are often idle and constitute an untapped resource which could be used for outsourcing computation. Existing solutions for harnessing this power, such as volunteer computing (e.g., BOINC), are centralized platforms in which a single organization or company can control participation and pricing. By contrast, an open market of computational resources, where resource owners and resource users trade directly with each other, could lead to greater participation and more competitive pricing. To provide an open market, we introduce MODiCuM, a decentralized system for outsourcing computation. MODiCuM deters participants from misbehaving---which is a key problem in decentralized systems---by resolving disputes via dedicated mediators and by imposing enforceable fines. However, unlike other decentralized outsourcing solutions, MODiCuM minimizes computational overhead since it does not require global trust in mediation results. We provide analytical results proving that MODiCuM can deter misbehavior, and we evaluate the overhead of MODiCuM using experimental results based on an implementation of our platform.'
 citation: 'DEBS2020'
 ---
