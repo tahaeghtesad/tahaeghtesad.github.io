@@ -11,7 +11,7 @@ title                    : "Taha Eghtesad"
 title_separator          : "-"
 name                     : &name "Taha Eghtesad"
 description              : &description "personal description"
-url                      : https://tahaeghtesad.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "http://taahaaa.ir" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tahaeghtesad/tahaeghtesad.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=lburGhYAAAAJ&hl=en"
-  email            : "taha@cs.uh.edu"
+  email            : "teghtesad@uh.edu"
   researchgate     : "https://www.researchgate.net/profile/Taha_Eghtesad"
   uri              : 
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/taha-eghtesad-2b5990202/"
   orcid            :
   pinterest        :
   soundcloud       :
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  # acm              : "http://member.acm.org/~tahaeghtesad"
 
 
 # Reading Files
@@ -187,6 +188,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -244,6 +248,16 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+
 
 # Sass/SCSS
 sass:
