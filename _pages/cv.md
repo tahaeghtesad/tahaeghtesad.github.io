@@ -14,22 +14,19 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Engineering, Shahid Beheshti University, Tehran, Iran, 2013-2018
-* Ph.D in Computer and Information Sciences, University of Houston, Houston, TX, 2018--present
+* M.S. in Computer Science, University of Houston, Houston, TX, 2018--2022
+* Ph.D. in Informatics, The Pennsylvania State University, University Park, PA, 2022--present
 
 Work experience
 ======
 * Aug 2018--present: Research Assistant
-  * University of Houston
-  * Working on multiple projects such as Machine Learning, Blockchains, Computer Security, Energy System Efficiency in _Resilient Networked Systems Laboratory_. My responsibilities include mentoring students and publishing academic papers.
-  * Supervisor: Professor [Aron Laszka](https://aronlaszka.com)
+  * University of Houston, Pennsylvania State University
+  * Working on multiple projects at the intersection of Machine Learning, Blockchains, Computer Security, and Energy System Efficiency in _Resilient Networked Systems Laboratory_.
+  * Supervisor: Dr. [Aron Laszka](https://aronlaszka.com)
 
 * Sep 2017--Jul 2018: Full Stack Software Engineer
   * [Hamisystem Sharif](http://hamisystem.ir)
   * My responsibilities include design and development of [MCI](http://mci.ir)'s Portals, Web Applications, and Mobile Application. Also, I was responsible for development of [E-Government](https://mob.gov.ir)'s Web Portal, and Mobile Application.
-
-* Sep 2016--Nov 2016: Software Engineering Intern
-  * [Ghadir Co](http://ghadirco.net/)
-  * My responsibilities include design and development of a central authentication and authorization server based on bioinformatic features for the purpose of individual identification in E-Government.
   
 Skills
 ======

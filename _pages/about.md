@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Taha Eghtesad"
-excerpt: "CS PhD Student @ UH"
+excerpt: "CS PhD Student @ PennState"
 author_profile: true
 redirect_from: 
   - /about/
@@ -52,7 +52,7 @@ More info about configuring academicpages can be found in [the guide](https://ac
 
 About Me
 ======
-Taha Eghtesad joined the department of Computer Science at the University of Houston as a Ph.D. student in Fall 2018. He received a B.S. degree from Shahid Beheshti University, Tehran, Iran in Computer Engineering with a minor in Software Engineering. Currently, he is working as a research assistant under supervision of Dr. Aron Laszka. He is interested to work at the intersection of machine learning, game theory, cyber-physical systems, and systems security. In specific, he tries to build more secure cyber-physical systems using artificial intelligence and machine learning.
+Taha Eghtesad joined the department of Information Sciences and Technology at the Pennsylvania State University in 2022. He received his M.S. degree from the University of Houston in 2022. Prior to that, he received a B.S. degree from Shahid Beheshti University, Tehran, Iran in Computer Engineering with a minor in Software Engineering. Currently, he is working as a research assistant under supervision of Dr. Aron Laszka. He is interested to explore the applications of artificial intelligence, machine learning, and game theory on computer security, and cyber-physical systems. In specific, he tries to build more secure cyber-physical systems using artificial intelligence and machine learning.
 
 Interests
 ------

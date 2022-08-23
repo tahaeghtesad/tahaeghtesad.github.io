@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Taha Eghtesad"
   avatar           : "profile.jpg"
-  bio              : "PhD of CS in UH"
-  location         : "Houston, TX"
+  bio              : "PhD of CS @PennState"
+  location         : "University Park, PA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=lburGhYAAAAJ&hl=en"
-  email            : "teghtesad@uh.edu"
+  email            : "tahaeghtesad@psu.edu"
   researchgate     : "https://www.researchgate.net/profile/Taha_Eghtesad"
   uri              : 
   bitbucket        :
@@ -269,7 +269,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
