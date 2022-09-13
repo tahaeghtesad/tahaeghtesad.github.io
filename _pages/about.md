@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Taha Eghtesad"
-excerpt: "CS PhD Student @ PennState"
+excerpt: "Informatics PhD Student @ PennState"
 author_profile: true
 redirect_from: 
   - /about/
