@@ -13,9 +13,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Engineering, Shahid Beheshti University, Tehran, Iran, 2013-2018
-* M.S. in Computer Science, University of Houston, Houston, TX, 2018--2022
 * Ph.D. in Informatics, The Pennsylvania State University, University Park, PA, 2022--present
+* M.S. in Computer Science, University of Houston, Houston, TX, 2018--2022
+* B.S. in Computer Engineering, Shahid Beheshti University, Tehran, Iran, 2013--2018
 
 Work experience
 ======
