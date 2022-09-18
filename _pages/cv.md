@@ -30,33 +30,30 @@ Work experience
   
 Skills
 ======
-* Machine Learning
-  * Python, Tensorflow, Numpy, Scipy, CV2
-* Micro Controllers
-  * Assembly, C, C++, ARM, AVR
-* Hardware Design
-  * FPGA, Verilog, VHDL(Familiar)
+* Data Structures, Algorithms, Object Oriented Design, Design Patterns
+* Machine Learning, Artificial Intelligence
+  * Python, Tensorflow, Numpy, Scipy, CV2, Scikit-Learn
 * Web Technologies
   * .NET
     * C#, ASP
   * JAVA
     * J2SE, J2EE, Spring, Hibernate
   * Front-End
-    * NodeJS, ExpressJS, AnguarJS, ReactJS(Familiar), jQuery
+    * NodeJS, ExpressJS, AnguarJS, jQuery
 * RDBMS
   * MSSQL Server, MySQL
 * NoSQL
   * Cassandra, Redis, Neo4J, MongoDB
 * Computer Networks
   * CCNA, CEH
-* Search Engines
+* Information Retrieval
   * Lucene, Nutch, Elastic Search
+* Micro Controllers
+  * Assembly, C, C++, ARM, AVR
+* Hardware Design
+  * FPGA, Verilog
 * Linux
-  * LPIC-1, Bash, Ansible, Slurm, Docker, Kubernetes(Familiar)
-* Windows
-  * ICDL, MCSA
-* Graphical Tools
-  * Adobe Illustrator and Photoshop(Familiar)
+  * LPIC-1, Bash, Ansible, Slurm, Docker, Kubernetes
 * Misc
   * Git, LaTeX
 
