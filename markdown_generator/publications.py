@@ -99,7 +99,8 @@ for row, item in publications.iterrows():
         md += "\n" + html_escape(item.excerpt) + "\n"
         
     if len(str(item.bibtex)) > 5:
-        md += "\n<div class='bibtex-citation'>\n" + item.bibtex.encode().decode('unicode_escape') + "\n</div>"
+        # md += "\n<div class='bibtex-citation'>\n" + item.bibtex.encode().decode('unicode_escape') + "\n</div>"
+        md += "\n```bibtex\n" + item.bibtex.encode().decode('unicode_escape') + '\n```'
     
     md_filename = os.path.basename(md_filename)
        

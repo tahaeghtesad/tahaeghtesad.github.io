@@ -13,7 +13,7 @@ citation: 'S. Eisele et al., &quot;Blockchains for Transactive Energy Systems: O
 
 The emergence of blockchains and smart contracts has renewed interest in electrical cyberphysical systems, especially transactive energy systems. To address the associated challenges, we present TRANSAX, a blockchain-based transactive energy system that provides an efficient, safe, and privacy-preserving market built on smart contracts.
 
-<div class='bibtex-citation'>
+```bibtex
 @article{eisele2020blockchains,
 	author={Eisele, Scott and Barreto, Carlos and Dubey, Abhishek and Koutsoukos, Xenofon and Eghtesad, Taha and Laszka, Aron and Mavridou, Anastasia},
 	journal={Computer}, 
@@ -24,4 +24,4 @@ The emergence of blockchains and smart contracts has renewed interest in electri
 	pages={66-76},
 	doi={10.1109/MC.2020.3002997}
 }
-</div>
+```
