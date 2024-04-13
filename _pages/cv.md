@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF](https://taahaaa.ir/files/cv.pdf)
 <a href='https://taahaaa.ir/files/cv.pdf' class='btn' title='Download PDF'><i class='fab fa-file-pdf'></i><span>PDF</span></a>
 
 Education
