@@ -50,12 +50,12 @@ For more info
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
  -->
 
-Taha Eghtesad joined the department of Information Sciences and Technology at the Pennsylvania State University in 2022. He received his M.S. degree from the University of Houston in 2022, and a B.S. degree from Shahid Beheshti University, Tehran, Iran in Computer Engineering with a minor in Software Engineering. Currently, he is working as a research assistant under supervision of Dr. Aron Laszka. He is interested to explore the applications of artificial intelligence, machine learning, and game theory on computer security, and cyber-physical systems. In specific, he tries to build more secure cyber-physical systems using artificial intelligence and machine learning.
+Taha Eghtesad joined the department of Information Sciences and Technology at the Pennsylvania State University in 2022. He received his M.S. degree from the University of Houston in 2022, and a B.S. degree from Shahid Beheshti University, Tehran, Iran in Computer Engineering with a minor in Software Engineering. He is interested to explore the applications of artificial intelligence, machine learning, reiforcement learning and game theory on computer security, and cyber-physical systems.
 
 Interests
 ------
 * Reinforcement Learning
 * Machine Learning
 * Game Theory
-* Cyber-Physical Systems
-* Systems Security
+* Computer and Network Security
+* Software Engineering

@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 [PDF](https://taahaaa.ir/files/cv.pdf)
+<a href='https://taahaaa.ir/files/cv.pdf' class='btn' title='Download PDF'><i class='fab fa-file-pdf'></i><span>PDF</span></a>
 
 Education
 ======
@@ -19,14 +20,9 @@ Education
 
 Work experience
 ======
-* Aug 2018--present: Research Assistant
-  * University of Houston, Pennsylvania State University
-  * Working on multiple projects at the intersection of Machine Learning, Blockchains, Computer Security, and Energy System Efficiency in _Resilient Networked Systems Laboratory_.
-  * Supervisor: Dr. [Aron Laszka](https://aronlaszka.com)
-
-* Sep 2017--Jul 2018: Full Stack Software Engineer
-  * [Hamisystem Sharif](http://hamisystem.ir)
-  * My responsibilities include design and development of [MCI](http://mci.ir)'s Portals, Web Applications, and Mobile Application. Also, I was responsible for development of [E-Government](https://mob.gov.ir)'s Web Portal, and Mobile Application.
+* Aug 2022 -- Present: Graduate Research Assistant, Pennsylvania State University
+* Aug 2018 -- Aug 2022: Graduate Research Assistant, University of Houston
+* Sep 2017--Jul 2018: Full Stack Software Engineer, Hamisystem Sharif
   
 Skills
 ======
@@ -55,7 +51,7 @@ Skills
 * Linux
   * LPIC-1, Bash, Ansible, Slurm, Docker, Kubernetes
 * Misc
-  * Git, LaTeX
+  * Git, LaTeX, CI/CD
 
 Publications
 ======
