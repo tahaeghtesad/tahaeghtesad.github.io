@@ -52,6 +52,8 @@ More info about configuring academicpages can be found in [the guide](https://ac
 
 Taha Eghtesad joined the department of Information Sciences and Technology at the Pennsylvania State University in 2022. He received his M.S. degree from the University of Houston in 2022, and a B.S. degree from Shahid Beheshti University, Tehran, Iran in Computer Engineering with a minor in Software Engineering. He is interested to explore the applications of artificial intelligence, machine learning, reinforcement learning and game theory on computer security, and cyber-physical systems.
 
+I joined [Triconex](https://www.se.com/us/en/work/products/industrial-automation-control/triconex-safety-systems/) at Schneider Electric to add safety features using machine learning to cyber-physical system controllers. This opportunity allows me to deepen my expertise and contribute to innovative projects at the intersection of AI/ML and safety engineering.
+
 Interests
 ------
 * Reinforcement Learning
