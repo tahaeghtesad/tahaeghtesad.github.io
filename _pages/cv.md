@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-<a href='https://taahaaa.ir/files/cv.pdf' class='btn' title='Download PDF'><i class='fab fa-file-pdf'></i><span>PDF</span></a>
+<a href='{{site.url}}/files/cv.pdf' class='btn' title='CV'><i class='fab fa-file-pdf'></i><span>CV PDF Download</span></a>
+<a href='{{site.url}}/files/ml_resume.pdf' class='btn' title='Resume'><i class='fab fa-file-pdf'></i><span>ML Resume PDF Download</span></a>
 
 Education
 ======
@@ -20,6 +21,7 @@ Education
 Work experience
 ======
 * Aug 2022 -- Present: Graduate Research Assistant, Pennsylvania State University
+* Jul 2024 -- Aug 2024: Machine Learning Research Intern, Triconex at Schneider Electric
 * Aug 2018 -- Aug 2022: Graduate Research Assistant, University of Houston
 * Sep 2017--Jul 2018: Full Stack Software Engineer, Hamisystem Sharif
   
@@ -27,7 +29,7 @@ Skills
 ======
 * Data Structures, Algorithms, Object Oriented Design, Design Patterns
 * Machine Learning, Artificial Intelligence
-  * Python, Tensorflow, Numpy, Scipy, CV2, Scikit-Learn
+  * Python, Tensorflow, Pytorch, Numpy, Scipy, CV2, Scikit-Learn
 * Web Technologies
   * .NET
     * C#, ASP
